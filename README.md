@@ -3,7 +3,10 @@
 LCT.EntityFramwork.GenericRepository extends EF features and eases C R U of "CRUD" operations. With a single generic repository, it can:
  
   - add or update your domain model with single method.
-  - retreive data and map to a different defined model or an Anonymous type.    
+  - retreive data and map to a different defined model or an Anonymous type.
+
+It is available from:
+https://www.nuget.org/packages/LCT.EntityFramework.Extensions
 
 ## Concepts
 
