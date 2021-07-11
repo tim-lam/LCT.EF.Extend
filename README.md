@@ -5,7 +5,7 @@ LCT.EntityFramwork.GenericRepository extends EF features and eases C R U of "CRU
   - add or update your domain model with single method.
   - retreive data and map to a different defined model or an Anonymous type.
 
-It is available https://www.nuget.org/packages/LCT.EntityFramework.Extensions.
+It is available https://www.nuget.org/packages/LCT.EntityFramework.GenericRepository.
 
 ## Concepts
 
